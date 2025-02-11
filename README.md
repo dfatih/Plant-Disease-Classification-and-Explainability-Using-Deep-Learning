@@ -22,6 +22,14 @@ Dataset
         *   _apple-black-rot_
     *   **Sample Size**: 100 images per class (for computational efficiency).
 *   **Metadata**: Each image is labeled with plant type, disease presence, and disease type.
+  ## Sample Images
+
+Here are examples of the images used in this project:
+
+![Leaf Samples](leaf_samples.png)
+
+- The first two leaves are healthy.
+- The last two leaves show signs of black rot disease.
 
 Project Structure
 -----------------
